@@ -1,0 +1,14 @@
+.poc-card{
+    height: 280px;
+    overflow: scroll;    
+}
+.top-heading-container{
+    background-color: #f5733b;
+    border-radius: 10px;
+}
+ .poc{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 85vh;
+}   

@@ -1,0 +1,7 @@
+.butn{
+    background-color: rgb(22, 21, 21);
+    color: #fff;
+}
+.butn:hover{
+    background-color: #f5733b;
+}

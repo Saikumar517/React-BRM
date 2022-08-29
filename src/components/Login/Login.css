@@ -1,0 +1,19 @@
+.main-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    height: 100vh;
+}
+.mini-container{
+    height: 80vh;
+}
+.back-color{
+    background-color: #f5733b;
+}
+input{
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+}
